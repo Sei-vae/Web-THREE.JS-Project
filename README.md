@@ -1,6 +1,6 @@
 # Web-THREE.JS-Project
 
-´´
+```
 npm init @vitejs/app
 
 -> Give Project Name: XXXX
@@ -10,4 +10,4 @@ npm init @vitejs/app
 Project > npm install three
 
 Project > npm run dev
-´´
+```
